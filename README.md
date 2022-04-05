@@ -1,4 +1,4 @@
-# shoppg-mui
+# shoppy-mui
 # Online Store using fakestore api.
 # Shopping cart using zustand.
 # Components designed with material-ui.
