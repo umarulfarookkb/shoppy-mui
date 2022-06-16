@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shoppy-mui/static/css/main.e6c13ad2.css",
+    "main.js": "/shoppy-mui/static/js/main.b5b8d351.js",
+    "index.html": "/shoppy-mui/index.html",
+    "main.e6c13ad2.css.map": "/shoppy-mui/static/css/main.e6c13ad2.css.map",
+    "main.b5b8d351.js.map": "/shoppy-mui/static/js/main.b5b8d351.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b5b8d351.js"
+  ]
+}
