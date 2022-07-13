@@ -6,7 +6,7 @@ import Products from './Products';
 export default function Home() {
   return (
     <>
-    <Card sx={{ maxWidth: 1400 ,maxHeight:400}} sm={{ maxWidth: 500,maxHeight:150 }}>
+    <Card sx={{ maxWidth: 1500 ,maxHeight:400}} sm={{ maxWidth: 500,maxHeight:150 }}>
         <CardMedia
           component="img"
           image="banner.jpg"

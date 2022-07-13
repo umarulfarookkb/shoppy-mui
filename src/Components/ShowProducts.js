@@ -86,7 +86,7 @@ function ShowProducts({data}) {
                   sx={{
                     width: 250,
                     height: 370,
-                    m: 5,
+                    m: 7,
                     display: "flex",
                     justifyContent: "space-around",
                     flexDirection: "column",
